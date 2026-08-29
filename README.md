@@ -1,6 +1,6 @@
 # JanReport: AI-Assisted Citizen Journalism Platform
 
-> A full-stack platform for reporting, reviewing, moderating, and discovering local news with AI-assisted content analysis, sentiment analysis, analytics, and location-based visualization.
+A full-stack platform for reporting, reviewing, moderating, and discovering local news with AI-assisted content analysis, sentiment analysis, analytics, and location-based visualization.
 
 ## Overview
 JanReport is a full-stack citizen journalism platform that enables users to submit and discover local news through a structured reporting, review, moderation, and publication workflow. The platform combines a React and TypeScript frontend with a Node.js and Express.js backend, MongoDB for data management, and AI/NLP services for content analysis. It also provides OCR-based information extraction, interactive maps, analytics dashboards, image management, and role-based moderation.
