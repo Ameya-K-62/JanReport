@@ -12,7 +12,7 @@ moderation workflows.
 
 ---
 
-## 🚀 Project Overview
+## Project Overview
 
 Local news often originates from community members who directly
 experience incidents such as traffic disruptions, infrastructure
@@ -38,9 +38,9 @@ moderators understand news content through:
 
 ---
 
-## ✨ Key Features
+## Key Features
 
-### 📰 Local News Reporting
+### Local News Reporting
 
 - Submit local news reports
 - Add title, description, category, and location
@@ -49,7 +49,7 @@ moderators understand news content through:
 - View personal submissions
 - Track report status
 
-### 🔐 Authentication & User Management
+### Authentication & User Management
 
 - User registration and login
 - JWT-based authentication
@@ -58,7 +58,7 @@ moderators understand news content through:
 - Secure password hashing using bcrypt
 - Automatic removal of passwords from user JSON responses
 
-### 🛡️ Moderation System
+### Moderation System
 
 - Dedicated moderation dashboard
 - Review submitted reports
@@ -67,7 +67,7 @@ moderators understand news content through:
 - Track report status
 - Email notifications for approval/rejection
 
-### 🤖 AI-Assisted News Analysis
+### AI-Assisted News Analysis
 
 JanReport integrates AI services to provide:
 
@@ -78,7 +78,7 @@ JanReport integrates AI services to provide:
 - Sentiment analysis
 - Incident severity estimation
 
-### 🧠 NLP & Sentiment Analysis
+### NLP & Sentiment Analysis
 
 The platform uses a pretrained DistilBERT sentiment model through
 Hugging Face inference services.
@@ -93,7 +93,7 @@ The analysis provides:
 Incident severity combines sentiment information with
 incident-related textual cues.
 
-### 📷 OCR & Geotag Extraction
+### OCR & Geotag Extraction
 
 The platform supports OCR-based image processing.
 
@@ -104,7 +104,7 @@ It can:
 - Identify latitude and longitude values
 - Return extracted information to the application
 
-### 🗺️ Location-Based News
+### Location-Based News
 
 Reports can contain geographic information and can be visualized
 on an interactive map.
@@ -116,19 +116,19 @@ The application includes:
 - Interactive map visualization
 - Geocoding support through OpenStreetMap Nominatim
 
-### 📊 Analytics Dashboard
+### Analytics Dashboard
 
 The application provides an analytics interface for viewing
 news/report-related information and visualizations.
 
 Charts are implemented using Recharts.
 
-### ☁️ Media Management
+### Media Management
 
 Uploaded images can be integrated with Cloudinary for cloud-based
 media storage and delivery.
 
-### 📧 Email Notifications
+### Email Notifications
 
 The backend supports automated email notifications for:
 
