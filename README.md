@@ -32,10 +32,6 @@ moderators understand news content through:
 - Location and map visualization
 - Analytics dashboards
 
-> **Note:** AI-based authenticity results are intended as
-> decision-support features and should not be treated as definitive
-> fact-checking or journalistic verification.
-
 ---
 
 ## Key Features
